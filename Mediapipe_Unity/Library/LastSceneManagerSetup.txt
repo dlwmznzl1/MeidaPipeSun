@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/MediaPipe/MediaPipeUnity/Samples/Scenes/Face Mesh/Face Mesh.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
